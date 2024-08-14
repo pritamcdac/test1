@@ -1,1 +1,2 @@
 "Adding 1 line on master"
+"adding 2 nd line on new_branch"
